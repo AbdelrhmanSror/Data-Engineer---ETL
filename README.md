@@ -1,10 +1,9 @@
 # Data-Engineer---ETL
 Python Project for Data Engineering
-Sure, here's an updated README file that reflects the fact that data loading is done by writing data to a CSV file:
 
 # ETL Engineer Peer Review Assignment
 
-This Jupyter Notebook contains an ETL (Extract, Transform, Load) pipeline for processing data related to a fictional online store. The notebook is part of a peer review assignment for an ETL Engineer certification.
+This Jupyter Notebook contains an ETL (Extract, Transform, Load) pipeline for processing data related to bank market capitalization. The notebook is part of a peer review assignment for an ETL Engineer certification.
 
 ## Getting Started
 
@@ -40,5 +39,3 @@ You can install this package using pip:
 ```
 pip install pandas
 ```
-
-
